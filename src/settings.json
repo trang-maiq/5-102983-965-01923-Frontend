@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "TechMeetup 2025 is happening from May 15 – 17 in San Francisco.",
+        "linkText": "Register Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into in-depth articles, tutorials, and discussions from industry professionals.",
+        "title": "Yay - Your Hub for Expert Technical Insights"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into in-depth articles, tutorials, and discussions from industry professionals.",
+        "title": "Yay - Your Hub for Expert Technical Insights"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into in-depth articles, tutorials, and discussions from industry professionals.",
+        "title": "Yay - Your Hub for Expert Technical Insights"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into in-depth articles, tutorials, and discussions from industry professionals.",
+        "title": "Yay - Your Hub for Expert Technical Insights"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into in-depth articles, tutorials, and discussions from industry professionals.",
+        "title": "Yay - Your Hub for Expert Technical Insights"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into in-depth articles, tutorials, and discussions from industry professionals.",
+        "title": "Yay - Your Hub for Expert Technical Insights"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into in-depth articles, tutorials, and discussions from industry professionals.",
+        "title": "Yay - Your Hub for Expert Technical Insights"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay - Your Hub for Expert Technical Insights",
+  "subtitle": "Dive into in-depth articles, tutorials, and discussions from industry professionals."
+}
